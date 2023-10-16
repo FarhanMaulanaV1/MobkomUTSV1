@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobkomUTSV1</string>
+    <string name="recycler_view">RecyclerViewV1</string>
+</resources>
